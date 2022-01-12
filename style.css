@@ -1,0 +1,33 @@
+h1.titulo {
+    text-align: center;
+    background-color: beige;
+}
+p.verde{
+    text-align: center;
+    background-color: chartreuse;}
+a{
+color: black;
+
+}
+
+section {
+
+    background-color: orange;
+}
+
+p.bottom {background-color: orange;}
+
+article.izquierda {display: inline-block;}
+
+article.derecha {display: inline-block;}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+
+span {
+    
+    background-color: yellow;
+   
+}
